@@ -1,6 +1,7 @@
 ### Welcome! It's Cho😁 
 I'm gonna be a truly profound Data Engineer who makes a difference in the field. we'll see! 
 <br/>
+<br/>
 
 > ### 🏫 Education
 - 동덕여자대학교 정보통계학 학사 [2020-2024]
