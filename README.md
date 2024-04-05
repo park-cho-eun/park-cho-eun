@@ -1,6 +1,6 @@
-###Welcome! It's Cho😁
+### Welcome! It's Cho😁
 
-###I'm gonna be a truly profound Data Engineer who makes a difference in the field. we'll see! 
+### I'm gonna be a truly profound Data Engineer who makes a difference in the field. we'll see! 
 <br/>
 
 ### 🏫 Education
