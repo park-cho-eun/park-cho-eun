@@ -1,5 +1,5 @@
 ### Welcome! I'm Park Choeun! You can call me just Cho 👋
-
-#### 🛠️ Stacks
+</hr>
+### 🛠️ Stacks
 
 
